@@ -1,1 +1,1 @@
-# Image-Classification of Male & Female-uisng-CNN-Deep-Learning
+# Image-Classification of Male & Female-using-CNN-Deep-Learning
